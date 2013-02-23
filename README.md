@@ -3,30 +3,14 @@
 > Style is what separates the good from the great. <br/>
 > -- Bozhidar Batsov
 
-One thing has always bothered me as Ruby developer - Python developers
-have a great programming style reference
-([PEP-8](http://www.python.org/dev/peps/pep-0008/)) and we never got
-an official guide, documenting Ruby coding style and best
-practices. And I do believe that style matters. I also believe that
-such fine fellows, like us Ruby developers, should be quite capable to
-produce this coveted document.
+> I believe in standards; everyone should have one. <br/>
+> -- Devin Ben-Hur
 
-This guide started its life as our internal company Ruby coding guidelines
-(written by yours truly). At some point I decided that the work I was
-doing might be interesting to members of the Ruby community in general
-and that the world had little need for another internal company
-guideline. But the world could certainly benefit from a
-community-driven and community-sanctioned set of practices, idioms and
-style prescriptions for Ruby programming.
+This guide is adopted as the house Ruby Style Guide for Whitepages.
 
-Since the inception of the guide I've received a lot of feedback from
-members of the exceptional Ruby community around the world. Thanks for
-all the suggestions and the support! Together we can make a resource
-beneficial to each and every Ruby developer out there.
-
-By the way, if you're into Rails you might want to check out the
-complementary
-[Ruby on Rails 3 Style Guide](https://github.com/bbatsov/rails-style-guide).
+It's derived from [Bozhidar Batsov's
+guide](https://github.com/bbatsov/ruby-style-guide), so share's a
+common base with [GitHub's](https://github.com/styleguide/ruby).
 
 # The Ruby Style Guide
 
@@ -59,12 +43,6 @@ The [rubocop](https://github.com/bbatsov/rubocop) project aims to
 provide an automated way to check whether a Ruby code base complies
 with the style guide. Currently it's far from being production ready and it's missing
 lots of features. Everyone is naturally invited to help improve it!
-
-Translations of the guide are available in the following languages:
-
-* [Chinese Simplified](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
-* [Chinese Traditional](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhTW.md)
-* [French](https://github.com/porecreat/ruby-style-guide/blob/master/README-frFR.md)
 
 ## Table of Contents
 
